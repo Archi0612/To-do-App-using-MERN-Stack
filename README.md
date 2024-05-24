@@ -1,4 +1,4 @@
-# fullstack-todo-app
+# MERN-TODO-App
 
 A simple and easy-to-use todo app that helps you stay organized and on top of your daily tasks.
 
