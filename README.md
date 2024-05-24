@@ -14,9 +14,9 @@ A simple and easy-to-use todo app that helps you stay organized and on top of yo
 
 - JWT tokens has been used
 
-For run this app you have to include .env in server directory.
-
 # .env file
+
+For run this app you have to include .env in server directory.
 
     PORT=4000
     MONGODBURI="Your mongodb url"
